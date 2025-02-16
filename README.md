@@ -4,10 +4,6 @@
 🔭 Je travaille actuellement en tant que Développeur Frontend chez RadioAnalyzer
 🌱 Je me spécialise en ReactJS/NextJS, TypeScript et Node.js
 📫 Contact : mathias.grdl.pro@gmail.com
-<h3 align="left">Connectez-vous avec moi :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mathias-grondziel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathias-grondziel" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages et Outils :</h3>
 <p align="left">
 <!-- Frontend -->
