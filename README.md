@@ -1,28 +1,97 @@
-<h1 align="center">Bonjour 👋, je suis Mathias</h1>
-<h3 align="center">Développeur Full-Stack JavaScript à dominance Front-End</h3>
-<p align="center">Je suis passionné par la création d'applications web avec 3 ans d'expérience. Je privilégie des solutions techniques efficaces et maintenables, en accord avec les besoins réels, actuels et futurs.</p>
-🔭 Je travaille actuellement en tant que Développeur Frontend chez RadioAnalyzer
-🌱 Je me spécialise en ReactJS/NextJS, TypeScript et Node.js
-📫 Contact : mathias.grdl.pro@gmail.com
-<h3 align="left">Languages et Outils :</h3>
-<p align="left">
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<!-- Backend -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<!-- Outils -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<div align="center">
+
+# 👋 Hello & Bonjour
+
+## Full-Stack JavaScript Developer | Développeur Full-Stack JavaScript
+
+</div>
+
+---
+
+## 🇬🇧 About Me
+
+Passionate Full-Stack JavaScript Developer with a Frontend focus and 3 years of experience building web applications. I prioritize efficient and maintainable technical solutions that align with real, current, and future needs.
+
+- 💼 Currently working as a Frontend Developer at RadioAnalyzer
+- 🚀 Specializing in ReactJS/NextJS, TypeScript, and Node.js
+- 📫 Contact: mathias.grdl.pro@gmail.com
+- 🧩 Working with Agile/Scrum methodology
+- 🔍 Focus on clean code and maintainable solutions
+
+## 🇫🇷 À propos de moi
+
+Développeur Full-Stack JavaScript passionné à dominance Front-End avec 3 ans d'expérience dans la création d'applications web. Je privilégie des solutions techniques efficaces et maintenables, en accord avec les besoins réels, actuels et futurs.
+
+- 💼 Actuellement Développeur Frontend chez RadioAnalyzer
+- 🚀 Spécialisé en ReactJS/NextJS, TypeScript et Node.js
+- 📫 Contact : mathias.grdl.pro@gmail.com
+- 🧩 Travail avec méthodologie Agile/Scrum
+- 🔍 Focus sur le code propre et les solutions maintenables
+
+---
+
+## 🛠️ Technologies & Tools | Technologies & Outils
+
+### Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
 </p>
-<h3 align="left">Mes statistiques :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathias-grdl&show_icons=true&locale=fr&layout=compact" alt="mathias-grdl" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathias-grdl&show_icons=true&locale=fr" alt="mathias-grdl" /></p>
+
+### Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+</p>
+
+### Database | Base de données
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+<img src="https://avatars.githubusercontent.com/u/77690634?s=200&v=4" alt="neondb" width="60" height="60"/>
+</p>
+
+### Tools | Outils
+<p>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
+</p>
+
+---
+
+## 💼 Experience Highlights | Points forts d'expérience
+
+- ✅ Developed internal management tools for SaaS platforms | Développé des outils de gestion internes pour plateformes SaaS
+- ✅ Created pixel-perfect WordPress sites from design | Création de sites WordPress avec intégration au pixel près
+- ✅ Worked on performance optimization & bug fixing | Travaillé sur l'optimisation des performances et la correction de bugs
+- ✅ Built full-stack applications with modern JavaScript frameworks | Construit des applications full-stack avec frameworks JavaScript modernes
+- ✅ Implemented advanced charting solutions | Implémenté des solutions de graphiques avancées
+
+---
+
+## 📊 GitHub Stats | Statistiques GitHub
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathias-grdl&show_icons=true&locale=en&layout=compact" alt="mathias-grdl" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathias-grdl&show_icons=true&locale=en" alt="mathias-grdl" />
+</p>
+
+---
+
+## 🌟 Interests | Centres d'intérêt
+
+- 🏋️ Sports and self-improvement | Sport et dépassement de soi
+- 💻 Technology and innovation | Technologie et innovation
+- 🌍 Travel and cultural discoveries | Voyages et découvertes culturelles
+- 📚 Continuous learning | Apprentissage continu
+- 🧠 Problem-solving | Résolution de problèmes
